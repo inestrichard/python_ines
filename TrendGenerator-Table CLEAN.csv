@@ -1,7 +1,4 @@
-National Center for Education Statistics
-"Number of full-time, first-time students receiving financial aid, by state and  type of aid: 2020-21"
-
-,Any financial aid,"Grants or scholarships from the federal government, state/local government, or the institution",Federal grants,Pell grants,Other federal grants,State/local government grants or scholarships ,Institutional grants or scholarships ,Loans to students,Federal loans,Other loans
+State,Any financial aid,"Grants or scholarships from the federal government, state/local government, or the institution",Federal grants,Pell grants,Other federal grants,State/local government grants or scholarships ,Institutional grants or scholarships ,Loans to students,Federal loans,Other loans
 Alabama,"34,977","32,937","18,372","15,502","10,177","3,270","25,447","15,853","15,382","1,617"
 Alaska,"1,555","1,469",959,662,623,948,726,506,493,28
 Arizona,"47,813","45,348","31,340","23,410","21,119","1,106","32,588","22,897","22,384","2,620"
@@ -53,7 +50,3 @@ Washington,"28,914","25,906","14,613","11,998","10,405","13,260","17,482","11,25
 West Virginia,"14,671","13,974","7,783","7,002","3,512","6,203","9,290","7,523","7,317","1,191"
 Wisconsin,"33,184","29,690","17,796","11,251","15,496","11,045","19,307","19,262","18,783","3,341"
 Wyoming,"4,171","3,827","2,274","1,346","1,820","2,187","2,622","1,340","1,311",85
-
-"Pell grants, other federal grants, federal and other loans were not collected prior to 2007-08."
-"This table presents data collected from Title IV institutions in the United States. Prior to 2009-10, the data include only Title IV primarily postsecondary institutions."
-"Prior to academic year 2010-11, the data represents students receiving aid, rather than students awarded aid. Students awarded aid include those who were awarded aid and accepted while student receiving aid include those who were awarded and disbursed aid"
